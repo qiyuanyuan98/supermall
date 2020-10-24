@@ -179,7 +179,7 @@ export default {
 }
 
 #tab-content {
-  height: 88vh;
+  height: 91vh;
   flex: 1;
 }
 </style>
